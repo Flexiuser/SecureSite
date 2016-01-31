@@ -2,5 +2,4 @@
 Secure Test on Git hub
 
 This is the first change I made
-
-My changes to Develop branch for conflicteddfdfs
+Changes made post pulling a Feature branch
